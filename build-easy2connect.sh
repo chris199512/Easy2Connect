@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Easy2Connect Build Script
-# Version 1.3
+# Version 1.4
 # by chris199512
 # Support : https://forum.feste-ip.net
 #
@@ -9,6 +9,7 @@
 # 23.06.2017 - Debian Strech
 # 03.08.2020 - Debian Buster
 # 20.10.2026 - Debian Trixie and Easy-RSA 3
+# 20.10.2026 - Easy-RSA 3
 #
 
 clear
@@ -263,7 +264,7 @@ fi
 
 cat << 'EOF'
                        _____                                 _
-                      / __  \               Installer V 1.3 | |
+                      / __  \               Installer V 1.4 | |
   ___  __ _ ___ _   _ `' / /' ___ ___  _ __  _ __   ___  ___| |_
  / _ \/ _` / __| | | |  / /  / __/ _ \| '_ \| '_ \ / _ \/ __| __|
 |  __/ (_| \__ \ |_| |./ /__| (_| (_) | | | | | | |  __/ (__| |_
